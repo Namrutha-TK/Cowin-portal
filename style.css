@@ -1,0 +1,409 @@
+.stepcard{
+    background-color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    color: #fff;
+    box-shadow: 0 10px 30px #b5d8e2;
+    box-sizing: border-box;
+    
+    
+  } 
+  .pic{
+    padding: 50px 35px 0;
+  }
+  .registerbtn{
+    border: 2px solid #fff;
+    color: #fff !important;
+    padding: 9px 25px !important;
+    text-decoration: none;
+    border-radius: 30px;
+    line-height: 1.5 !important;
+    text-align: center;
+    display: block;
+    font-size: 13px;
+  }
+  .sfooter{
+    color: #2f4b6e;
+    font-size: 12px;
+    padding: 10px 5px 20px;
+    text-decoration: none;
+    margin: 0 0 8px;
+    background: #fff;
+    display: inline;
+    
+  }
+  .carousel-control-prev{
+    left: auto;
+    right: 70px
+  }
+  .stepcard{
+    height: 400px;
+    text-align: center;
+    box-shadow: 0 10px 30px #b5d8e2;
+    box-sizing: border-box;
+    border-radius: 10px;
+  }
+  .searchcenter_a{
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+    left:550px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #02aeae;
+  }
+  #searchtitle,#sideeffect_title,#free_dose,#child,#datecorrection,#partnerTitle,#abhaTitle,#sharevaccineStatus,.precautionTitle,#vaccinedrive{
+    
+    font-size: 32px;
+    color: #007c7c;
+    line-height: 40px;
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+    margin: 0 0 16px;
+  }
+  .freevac_des{
+    font-size: 16px;
+    color: #0e1229;
+    font-weight: 400;
+    line-height: 1.5;
+    opacity: .7;
+    letter-spacing: .5px;
+    max-width: 70%;
+    margin: 0 0 12px;
+    margin-bottom: 1.5rem;
+    margin-bottom: 1.5rem;
+    text-align: left;
+  }
+  .toplinks a{
+    font-size: 13px;
+    font-weight: 500px;
+    background: none;
+    border: none;
+    color: #fff !important;
+    cursor: pointer;
+    display: flex;
+    letter-spacing: 1px;
+    padding: 0 20px;
+    text-decoration: none;
+  }
+  .bookslot,.child_slot,.update,.share_status,.precaution_slot,.know_more{
+    background: #007c7c;
+    border-radius: 25px;
+    padding: .75rem 2.95rem;
+    font-size: 16px;
+    display: inline;
+    text-decoration: none;
+    
+  }
+.precaution_imgcol{
+  position: relative;
+    
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    top:50px;
+}
+.precaution_img{
+  width: 45%;
+  
+    border-style: none;
+    
+}
+.sideefeect,.child_vaccine{
+  padding: 45px 0;
+  
+   
+}
+.carousel-control-prev{
+  left: auto;
+  position: absolute;
+    right: 70px;
+    width: auto;
+    bottom: auto;
+    top: -50px;
+    cursor: pointer;
+    align-items: center;
+    -webkit-box-pack: center;
+    display: flex;
+    -webkit-box-align: center;
+    justify-content: center;
+    text-align: center;
+    opacity: .5;
+    color: #fff;
+}
+.carousel-control-next{
+  right: 20px;
+  width: auto;
+    bottom: auto;
+    top: -50px;
+    cursor: pointer;
+    position: absolute;
+    align-items: center;
+    -webkit-box-pack: center;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    justify-content: center;
+    text-align: center;
+    opacity: .5;
+    color: #fff;
+}
+.download_file{
+  border: 2px solid #007c7c;
+    border-radius: 50px;
+    padding: .75rem 2.95rem;
+    min-width: 150px;
+    display: inline-block;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    letter-spacing: 1px;
+    color: #007c7c;
+}
+.viewVaccineBtn{
+  border: 2px solid #2e9595;
+    background-color: none;
+    border-radius: 50px;
+    padding: 10px 30px;
+    color: #2e9595;
+    font-size: 16px;
+    font-weight: 500;
+    background-image: none;
+    position: relative;
+    right: -550px;
+    text-decoration: none;
+}
+.registerPartnerbtn{
+  border: 2px solid #2e9595;
+    background-color: none;
+    border-radius: 50px;
+    padding: 10px 30px;
+    color: #2e9595;
+    font-size: 16px;
+    font-weight: 500;
+   
+    text-decoration: none;
+}
+.viewmore{
+  border: 2px solid #007c7c;
+    background-color: #007c7c;
+    border-radius: 50px;
+    padding: .75rem 3.95rem;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+}
+#helplineSub_ul{
+  border: solid #015158;
+    border-width: 1px 0 0;
+    list-style-type: none;
+    text-align: left;
+    padding: 15px 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.footerContent{
+  background: #007c7c;
+    color: #fff;
+    position: relative;
+    padding: 30px 0 0;
+}
+.footerBottom{
+  background-color: #015158;
+    padding: 5px 0;
+    margin-top: 25px;
+}
+.footerLogos,#helplineSub_ul,#faq_certificate,#vaccineServiceList,#vaccinePlatform,#resourceList{
+  list-style: none;
+}
+.nhaImg{
+  color: #fff;
+  font-weight: 400;
+    font-size: 12px;
+    white-space: nowrap;
+}
+.accordion-item{
+  outline: none;
+}
+.stepno{
+  font-size: 14px;
+    color: #007c7c;
+    border: 1px solid #007c7c;
+    padding: 5px 20px;
+    border-radius: 10px;
+    top: -16px;
+    position: absolute;
+    font-weight: 700;
+    background-color: #fff;
+    margin: auto;
+    display: block;
+    width: 85px;
+    text-align: center;
+    left: 0 !important;
+    right: 0;
+}
+ footer h4{
+  font-weight: 600;
+    color: #99d9d9;
+    text-transform: uppercase;
+    /* text-align: left; */
+    font-size: 14px;
+    margin-bottom: 22px;
+    left: 30px;
+   
+}
+footer li{
+  color: #fff;
+    font-size: 13px;
+    font-weight: 400;
+    /*text-align: left;*/
+    left: -20px;
+    
+    
+}
+footer li:hover{
+  text-decoration: underline;
+}
+.vaccine_total{
+  color: #02aeae;
+    font-weight: 500;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+.header_title{
+  padding: 0 10px;
+    overflow: auto;
+    height: 85px;
+    margin: 15px 5px auto auto;
+    color: #ff9a31
+}
+.list_newcowin{
+  position: absolute;
+    color: #fff;
+    top: 50px;
+    left: 26px;
+    font-size: 20px;
+}
+.num2{
+  position: absolute;
+  color: #fff;
+  left:-3px;
+  top:-5px;
+  right: -2;
+}
+.header_style{
+     padding: 0;
+    min-height: 120px;
+    background-color: #f5f6f5;
+    font-weight: 500;
+    justify-content: start;
+
+}
+.new-accord_expand{
+  line-height: 24px;
+    font-size: 14px;
+    margin: 0 0 12px;
+  
+    box-sizing: border-box;
+}
+.header_titlep{
+  padding: 0 10px;
+   overflow: auto;
+    height: 85px;
+    margin: 18px 5px auto auto;
+    text-align: right;
+}
+.header_stylep{
+  color: #007c7c;
+    font-size: 16px;
+    line-height: 26px;
+    margin-right: 0;
+   
+    
+}
+.list8{
+  position: absolute;
+    color: #fff;
+    top: 2px;
+    left: -18px;
+    font-size: 20px;
+    
+}
+.carosal_title{
+  min-height: 40px;
+    font-weight: 700;
+    letter-spacing: 0;
+    color: #007c7c;
+    font-size: 15px;
+    display: block;
+}
+.carosal_title a :hover{
+  text-decoration: underline;
+} 
+.carosal_cardp{
+  letter-spacing: 0;
+    color: #282828;
+    font-weight: 500;
+    font-size: 13px;
+}
+.raiseissue_card{
+  width: 90%;
+    text-align: center;
+    background: #fff 0 0 no-repeat padding-box;
+    box-shadow: 0 8px 25px rgba(64, 48, 107, .25098039215686274);
+    border-radius: 10px;
+    padding: 20px 15px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.download_file{
+  border: 2px solid #007c7c;
+    border-radius: 50px;
+    padding: .75rem 2.95rem;
+    min-width: 150px;
+    display: inline-block;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    letter-spacing: 1px;
+    color: #007c7c;
+}
+
+/* .childvaccine_list li:before{
+  position: absolute;
+    content: "";
+    width: 8px;
+    height: 8px;
+    background-color: #27c6c6;
+    border-radius: 50%;
+    left: 0;
+    top: 6px;
+} */
+#new_captionh{
+  font-size: 32px;
+    color: #007c7c;
+    line-height: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 30px !important;
+}
+#early_2{
+  position: absolute;
+  top:-10px;
+  left:-3px;
+}
+#hcw_img{
+  position: absolute;
+  left:-3px;
+  top:-10px;
+
+}
+.accord_title{
+  color: #007c7c;
+    font-size: 16px;
+    line-height: 26px;
+}
